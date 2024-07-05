@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'sans-serif', 'Arial';
+}
+
+.menu-item{
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    overflow: hidden;
+    margin-bottom: 20px;
+    /* margin-right: 10px; */
+
+
+}
+.card-img-top{
+    height: 200px;
+    object-fit: cover;
+}
+
+
+#video-wrapper{
+    height: 340px;
+    width: 100%;
+    padding: 0 120px;
+    margin-top: 10px;
+    margin-bottom: 30PX;
+   
+}
+
+#restaurant-video:hover::-webkit-media-controls {
+    display: none ;
+}
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 576px) {
+   
+}
+
+@media (min-width: 992px) {
+    
+}
